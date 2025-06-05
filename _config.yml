@@ -216,4 +216,4 @@ feed:
 deploy:
   type: git
   repo: # or https://gitee.com/<yourAccount>/<repo>
-  branch: # branch
+  branch: main
